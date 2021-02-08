@@ -1,3 +1,4 @@
+"""The Spark Foundation GRIP Task 1: Object Detection"""
 #Import the openCV
 import cv2
 #Import the numpy as np
